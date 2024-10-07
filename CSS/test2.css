@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .red {color:red;}
+        .c {color:yellow}
+    </style>
+    <body>
+<link rel="stylesheet" href="">
+
+    </body>
+
+</html>
+<!-- Cách dùng Css
+    cách 1: inline sử dụng style trong thẻ
+    cách 2: internal
+    cách 3: extermnl
+-->
+<!-- p,a,img,.. là element -->
+<!-- style, href,... gọi là attribute-->
+<!-- class, id-->
