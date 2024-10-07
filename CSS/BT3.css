@@ -1,7 +1,9 @@
-
-<style> 
-    div.size {text-align: center; background:rgb(119, 145, 237); color: white}
-    H1{text-align: center;}.h {color:aqua}
-    button.a {text-align: center; background:black; color: white;}
+* {
+    margin: 0px;
+    padding: 10px;
+}
+<style>
+ span.size {background-color: cornflowerblue; color: white; padding: 10px}
+ span.h1 {color:aqua}
+ button{padding: 10px 20px; background-color:black; color:white}
 </style>
-</head> 
